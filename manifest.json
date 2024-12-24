@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "web-lsp",
+  "version": "1.0",
+  "description": "A chrome  extension for running lsp in web servers",
+  "icons": {
+    "16": "icon.JPG",
+    "48": "icon.JPG",
+    "128": "icon.JPG"
+  },
+  "browser_action": {
+    "default_icon": "icon.JPG",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
