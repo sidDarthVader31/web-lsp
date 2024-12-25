@@ -1,6 +1,7 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "web-lsp",
+  "author":"siddharthbisht31@gmail.com",
   "version": "1.0",
   "description": "A chrome  extension for running lsp in web servers",
   "icons": {

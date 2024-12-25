@@ -1,0 +1,12 @@
+{
+  "name": "web-lsp",
+  "version": "1.0.0",
+  "description": "this is an attempt to create a lsp server for web so that we can use it while writing code on web",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "siddharthbisht31@gmail.com",
+  "license": "ISC"
+}
