@@ -1,0 +1,22 @@
+{
+  "name": "web-lsp",
+  "version": "1.0.0",
+  "description": "this is an attempt to create a lsp server for web so that we can use it while writing code on web",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "watch": "webpack --config webpack.config.js --watch"
+  },
+  "keywords": [],
+  "author": "siddharthbisht31@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.7.2",
+    "typescript-language-server": "^4.3.3",
+    "vscode-languageserver": "^9.0.1",
+    "vscode-languageserver-textdocument": "^1.0.12"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2"
+  }
+}
